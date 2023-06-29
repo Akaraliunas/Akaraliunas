@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aivaras Karaliūnas</h1>
 <h3 align="center">A full-stack web developer from Lithuania</h3>
 
-- 🌱 I’m currently learning **laravel (bagisto) + vuejs (frontend)**
+- 🌱 I’m currently learning **laravel (backend) + vuejs (frontend)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
