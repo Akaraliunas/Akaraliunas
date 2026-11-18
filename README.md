@@ -2,11 +2,11 @@
 
 Full-stack developer from Lithuania, building e-commerce platforms and corporate websites.
 
-🛒 **E-commerce:** Magento 2 / Adobe Commerce, custom modules, integrations, performance
-⚙️ **Backend:** PHP, Laravel, MySQL, REST & GraphQL APIs
-🎨 **Frontend:** Vue.js, React, JavaScript, Tailwind CSS
-🤖 **AI:** integrating AI into shops and internal tools, AI agents and developer workflows
-🐳 **DevOps:** Docker, Nginx, CI/CD, Shell
+- 🛒 **E-commerce:** Magento 2 / Adobe Commerce, custom modules, integrations, performance
+- ⚙️ **Backend:** PHP, Laravel, MySQL, REST & GraphQL APIs
+- 🎨 **Frontend:** Vue.js, React, JavaScript, Tailwind CSS
+- 🤖 **AI:** integrating AI into shops and internal tools, AI agents and developer workflows
+- 🐳 **DevOps:** Docker, Nginx, CI/CD, Shell
 
 🔭 Currently working on AI integrations for e-commerce and automating repetitive shop tasks.
 
